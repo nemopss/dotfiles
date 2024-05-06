@@ -1,0 +1,16 @@
+HKModInstaller
+raycast/extensions
+wireshark
+zed
+.DS_Store
+memos.json
+coc/extensions
+nvim.bak
+gh
+github-copilot
+iterm2
+jgit
+neofetch
+alacritty/.git_history
+nvim/.git_history
+alacritty/.gitignore
