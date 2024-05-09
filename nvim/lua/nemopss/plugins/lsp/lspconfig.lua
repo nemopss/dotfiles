@@ -93,6 +93,10 @@ return {
 			capabilities = capabilities,
 			on_attach = on_attach,
 		})
+		lspconfig["jdtls"].setup({
+			capabilites = capabilities,
+			on_attach = on_attach,
+		})
 
 		lspconfig["rust_analyzer"].setup({
 			capabilites = capabilities,

@@ -22,7 +22,7 @@ startup_mode = "Fullscreen"
 [font]
 normal.family = "MesloLGS Nerd Font Mono"
 
-size = 19
+size = 17
 
 [selection]
 save_to_clipboard = true
