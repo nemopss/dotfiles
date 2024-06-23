@@ -45,6 +45,7 @@ return {
 					"query",
 					"regex",
 					"go",
+					"graphql",
 				},
 				incremental_selection = {
 					enable = true,
