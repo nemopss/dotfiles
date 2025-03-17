@@ -45,8 +45,9 @@ return {
 					"gitignore",
 					"query",
 					"regex",
-					"go",
 					"graphql",
+					"go",
+					"prolog",
 				},
 				incremental_selection = {
 					enable = true,
